@@ -1,6 +1,6 @@
 # Catscroll.js
 
-We all love cats, I mean who doesn't? No your browser can give you that sweet meow as your scroll
+We all love cats, I mean who doesn't? Now your browser can give you that sweet meow as your scroll
 
 
 ### Setup:
