@@ -5,7 +5,7 @@ We all love cats, I mean who doesn't? Now your browser can give you that sweet m
 
 ### Setup:
 
-1. Include "Catscroll.js" in your page. (You can use the latest from our CDN: 
+1. Include "Catscroll.js" in your page. 
 2. Initialize the Catscroll plugin once the DOM has loaded:
 
 ```javascript
