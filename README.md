@@ -9,10 +9,10 @@ We all love cats, I mean who doesn't? Now your browser can give you that sweet m
 2. Initialize the Catscroll plugin once the DOM has loaded:
 
 ```javascript
-// Fart every 400 pixels scrolled
+// meow every 400 pixels scrolled
 Catscroll(); 
 
-// Fart every 800 pixels scrolled
+// meow every 800 pixels scrolled
 Catscroll(800);
 ```
 forked from:
