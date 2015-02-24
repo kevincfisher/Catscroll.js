@@ -1,20 +1,20 @@
-# fartscroll.js
+# Catscroll.js
 
-Everyone farts. And now your web pages can too.
+We all love cats, I mean who doesn't? No your browser can give you that sweet meow as your scroll
 
-_Now with 100% less jQuery! (Sorry, jQuery, we still love you)_
 
 ### Setup:
 
-1. Include "fartscroll.js" in your page. (You can use the latest from our CDN: [//code.onion.com/fartscroll.js](http://code.onion.com/fartscroll.js))
-2. Initialize the fartscroll plugin once the DOM has loaded:
+1. Include "Catscroll.js" in your page. (You can use the latest from our CDN: 
+2. Initialize the Catscroll plugin once the DOM has loaded:
 
 ```javascript
 // Fart every 400 pixels scrolled
-fartscroll(); 
+Catscroll(); 
 
 // Fart every 800 pixels scrolled
-fartscroll(800);
+Catscroll(800);
 ```
-    
+forked from:
+
 More info at [http://theonion.github.io/fartscroll.js/](http://theonion.github.io/fartscroll.js/).
